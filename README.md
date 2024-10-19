@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 •	🌱 Always learning new things </br>
-•	💼 Working in tech and design
-•	🔧 Passionate about solving problems
-•	🚀 Exploring new ideas and projects
-•	📫 Let’s connect!
+•	💼 Working as an UX Designer </br>
+•	🔧 Passionate about solving problems and front end development </br>
+•	🚀 Exploring new ideas and projects </br>
+•	📫 Let’s connect! </br>
 
  ### 🛠 Tech Stack
 
