@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style=" display: flex; 
-  justify-content: space-between;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chalakabuthsara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chalakabuthsara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Github Stats" style="max-width: 48%;">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="max-width: 48%;">
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="Streak Stats" style="max-width: 80%;">
+</div>
