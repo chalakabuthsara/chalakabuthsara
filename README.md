@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Chalaka Wickramasekara 👋
 
 <!--
 **chalakabuthsara/chalakabuthsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+	•	🌱 Always learning new things
+	•	💼 Working in tech and design
+	•	🔧 Passionate about solving problems
+	•	🚀 Exploring new ideas and projects
+	•	📫 Let’s connect!
+
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="Streak Stats" style="max-width: 80%; margin-right: 20px">
   
