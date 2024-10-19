@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-	•	🌱 Always learning new things
-	•	💼 Working in tech and design
-	•	🔧 Passionate about solving problems
-	•	🚀 Exploring new ideas and projects
-	•	📫 Let’s connect!
+•	🌱 Always learning new things
+•	💼 Working in tech and design
+•	🔧 Passionate about solving problems
+•	🚀 Exploring new ideas and projects
+•	📫 Let’s connect!
 
  ### 🛠 Tech Stack
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="Streak Stats" style="max-width: 80%; margin-right: 20px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chalakabuthsara&theme=tokyonight" alt="Streak Stats" style="max-width: 80%; margin-right: 20px">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="max-width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chalakabuthsara&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="max-width: 48%;">
 </div>
