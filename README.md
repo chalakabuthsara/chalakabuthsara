@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-•	🌱 Always learning new things
+•	🌱 Always learning new things </br>
 •	💼 Working in tech and design
 •	🔧 Passionate about solving problems
 •	🚀 Exploring new ideas and projects
